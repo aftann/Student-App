@@ -1,5 +1,4 @@
 # student-app
-Student-app sesuatu yang membuat saya pusing ;(
 
 foto setelah ditambahkan data :
 
